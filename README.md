@@ -9,7 +9,7 @@ The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. 
  <img width="761" height="749" alt="image" src="https://github.com/user-attachments/assets/61f3f7f5-1f8f-46a8-b114-28d323363ef9" />
 
 
-Analysis List
+## Analysis List
 Product Analysis
 Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
 
