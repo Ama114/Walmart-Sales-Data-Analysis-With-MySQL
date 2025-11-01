@@ -89,13 +89,13 @@ $ total(gross_sales) = VAT + COGS $
 
 $ grossProfit(grossIncome) = total(gross_sales) - COGS $
 
-Gross Margin is gross profit expressed in percentage of the total(gross profit/revenue)
+ Gross Margin is gross profit expressed in percentage of the total(gross profit/revenue)
 
 $ \text{Gross Margin} = \frac{\text{gross income}}{\text{total revenue}} $
 
-Example with the first row in our DB:
+##### Example with the first row in our DB:
 
-Data given:
+##### Data given:
 
 $ \text{Unite Price} = 45.79 $
 $ \text{Quantity} = 7 $
